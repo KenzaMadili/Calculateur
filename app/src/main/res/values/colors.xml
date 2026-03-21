@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#E3F2FD</color> <!-- bleu très clair -->
+    <color name="text_color">#212121</color> <!-- noir doux -->
+    <color name="hint_color">#757575</color> <!-- gris -->
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="button_main_color">#1976D2</color> <!-- bleu -->
+    <color name="result_color">#2E7D32</color> <!-- vert -->
+    <color name="border_color">#90CAF9</color>
+</resources>
