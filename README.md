@@ -46,7 +46,7 @@ L’impôt est calculé comme suit :
 
 ### 🔹 Interface principale
 
-![Interface](screenshots/intfc.png)
+![Interface](intfc.png)
 
 ---
 
